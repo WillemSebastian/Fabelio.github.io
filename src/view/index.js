@@ -96,6 +96,12 @@ export default class View extends React.Component {
               product.name.includes(this.state.nameFilter)
             );
           }
+        } else {
+          return (
+            product.name.includes(this.state.nameFilter) &&
+            product.furniture_style.some(r => furnitureList.includes(r)) &&
+            product.delivery_time <= MaximumDeliveryDays
+          );
         }
       });
       this.setState({ searchResult: result });
