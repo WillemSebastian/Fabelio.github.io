@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fabelio.github.io/static/css/main.160a31a7.chunk.css",
+    "main.js": "/Fabelio.github.io/static/js/main.6c6efaba.chunk.js",
+    "main.js.map": "/Fabelio.github.io/static/js/main.6c6efaba.chunk.js.map",
+    "runtime-main.js": "/Fabelio.github.io/static/js/runtime-main.05f9e5af.js",
+    "runtime-main.js.map": "/Fabelio.github.io/static/js/runtime-main.05f9e5af.js.map",
+    "static/js/2.9d5c5a17.chunk.js": "/Fabelio.github.io/static/js/2.9d5c5a17.chunk.js",
+    "static/js/2.9d5c5a17.chunk.js.map": "/Fabelio.github.io/static/js/2.9d5c5a17.chunk.js.map",
+    "index.html": "/Fabelio.github.io/index.html",
+    "precache-manifest.ba217e0bd54921a0618aebb6c2877bda.js": "/Fabelio.github.io/precache-manifest.ba217e0bd54921a0618aebb6c2877bda.js",
+    "service-worker.js": "/Fabelio.github.io/service-worker.js",
+    "static/css/main.160a31a7.chunk.css.map": "/Fabelio.github.io/static/css/main.160a31a7.chunk.css.map",
+    "static/js/2.9d5c5a17.chunk.js.LICENSE.txt": "/Fabelio.github.io/static/js/2.9d5c5a17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05f9e5af.js",
+    "static/js/2.9d5c5a17.chunk.js",
+    "static/css/main.160a31a7.chunk.css",
+    "static/js/main.6c6efaba.chunk.js"
+  ]
+}
