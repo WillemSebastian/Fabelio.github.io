@@ -1,0 +1,59 @@
+.container {
+  padding-top: 5vh;
+}
+
+.box {
+  border: 1px solid black;
+  height: 100%;
+}
+
+.header {
+  background-color: blue;
+  padding: 10px;
+}
+
+._2OR24XnUXt8OCrysr3G0XI {
+  height: 100%;
+  background-color: white;
+}
+
+.p20 {
+  padding: 20px;
+}
+
+.content {
+  height: 60vh;
+  overflow-y: auto;
+  padding: 2%;
+}
+
+.text {
+  width: 100%;
+  border-radius: 4px;
+  height: 41px;
+}
+
+.productCard {
+  border: 1px solid transparent;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px 2px grey;
+}
+
+.productHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.productDescription {
+  display: flex;
+  flex-direction: column;
+}
+
+.productFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
